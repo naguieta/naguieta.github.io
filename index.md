@@ -12,13 +12,13 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon)
+<img src="images/analisis.jpg?raw=true" style="width: 90%; max-width: 100%;"/>
 
 ---
 [Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API)
 <br>
-<img src="images/FastApi.png?raw=true" style="width: 75%; max-width: 100%;"/>
+<img src="images/FastApi.png?raw=true" style="width: 90%; max-width: 100%;"/>
 
 ---
 
