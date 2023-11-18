@@ -13,7 +13,7 @@
 
 ---
 [Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon)
-<img src="images/analisis.jpg?raw=true" style="width: 90%; max-width: 100%;"/>
+<img src="images/analisis.png?raw=true" style="width: 90%; max-width: 100%;"/>
 
 ---
 [Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API)
