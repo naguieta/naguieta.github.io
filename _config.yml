@@ -1,11 +1,12 @@
 title: Nahuel Vargas # your name (or website title) here
-logo: "/images/NahuCara.png?raw=true" # your photo (or logo) here
+logo: "/images/NahuCaraCir.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am a software developer in the
   mainframe environment with 7 years
   of experience in C and Assembler
   languages, and 3 years as a Functional
   Analyst.
+  <br><br>
   I have led teams, primarily analyzing,
   designing, and managing projects,
   training new developers, and
