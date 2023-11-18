@@ -18,7 +18,7 @@
 ---
 [Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API)
 <br>
-<img src="images/FastApi.png?raw=true" style="width: 90%; max-width: 100%;"/>
+[![Imagen](images/FastApi.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI1-ETL_API/blob/main/main.py)
 
 ---
 
