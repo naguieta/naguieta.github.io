@@ -17,7 +17,8 @@
 
 ---
 [Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API)
-<img src="images/FastApi.png?raw=true"/>
+<br>
+<img src="images/FastApi.png?raw=true" style="width: 75%; max-width: 100%;"/>
 
 ---
 
