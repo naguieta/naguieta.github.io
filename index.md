@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Transformación de datos, elaboración y ejecución de una API]([http://example.com/](https://github.com/naguieta/HenryPI1-ETL_API)
+[Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API)
 <img src="images/FastApi.png?raw=true"/>
 
 ---
