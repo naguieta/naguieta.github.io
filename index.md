@@ -13,12 +13,12 @@
 
 ---
 [Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon)
-[![Imagen](images/analisis.png){:width="90%" max-width="100%" class="thumbnail"}](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
+[![Imagen](images/analisis.png){:width="90%" max-width="100%" class="thumbnailna"}](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
 
 ---
 [Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API)
 <br>
-[![Imagen](images/FastApi.png){:width="90%" max-width="100%" class="thumbnail"}](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
+[![Imagen](images/FastApi.png){:width="90%" max-width="100%" class="thumbnailna"}](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
 ---
 
