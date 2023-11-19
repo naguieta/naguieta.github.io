@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Soy Henry Bootcamp: Data Science
 
 [Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
 
