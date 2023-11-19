@@ -36,6 +36,14 @@
        transform: scale(1.1);
        filter: brightness(120%);
      }
+      @media only screen and (max-width: 600px) {
+       /* Estilos para pantallas con un ancho máximo de 600px (puedes ajustar este valor) */
+       section {
+         width: 100%; /* Hace que la sección ocupe el 100% del ancho en dispositivos móviles */
+         float: right;
+         padding-left: 0; /* Elimina el relleno izquierdo en dispositivos móviles */
+       }
+     }
    </style>
 </head>
 <body>
