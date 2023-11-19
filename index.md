@@ -11,9 +11,9 @@
 [Análisis y presentación sobre MOOCs](https://github.com/naguieta/HenryPI3-MOOCs/tree/main)
 
 
-[![Imagen 1](images/graph1.png)](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix) [![Imagen 2](images/wordCloud.png)](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/WordCloud.pbix)
+[![Imagen 1](images/graph1.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix) [![Imagen 2](images/wordCloud.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/WordCloud.pbix)
 
-[![Imagen 3](images/graph2.png)](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix) [![Imagen 4](images/notebook.png)](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/EDA/EDA%20EDX.ipynb)
+[![Imagen 3](images/graph2.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix) [![Imagen 4](images/notebook.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/EDA/EDA%20EDX.ipynb)
 
 
 ---
