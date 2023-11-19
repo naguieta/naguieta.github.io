@@ -9,6 +9,7 @@
 
 ---
 [Análisis y presentación sobre MOOCs](https://github.com/naguieta/HenryPI3-MOOCs/tree/main)
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
    <div style="width: 48%; margin-bottom: 10px;">
       [![Imagen 1](images/graph1.png){:width="100%" alt="Imagen 1"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix)
@@ -16,6 +17,9 @@
    <div style="width: 48%; margin-bottom: 10px;">
       [![Imagen 2](images/wordCloud.png){:width="100%" alt="Imagen 2"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/WordCloud.pbix)
    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
    <div style="width: 48%; margin-bottom: 10px;">
       [![Imagen 3](images/graph2.png){:width="100%" alt="Imagen 3"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix)
    </div>
