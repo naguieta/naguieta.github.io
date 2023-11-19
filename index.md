@@ -6,7 +6,7 @@
 
 [Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps)
 
-[![Imagen 1](images/app.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix) [![Imagen 2](images/graf3.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf)
+[![Imagen 1](images/app.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps) [![Imagen 2](images/graf3.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf)
 [![Imagen 3](images/graf2.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf) 
 [![Imagen 4](images/arq.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps)
 [![Imagen 5](images/note.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps) [![Imagen 6](images/code.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps)
