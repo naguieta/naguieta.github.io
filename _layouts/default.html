@@ -20,6 +20,9 @@
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
    <style>
+     header {
+       width: 350px;
+     }
      section {
        width: calc(100% - 25%); /* Ajusta el ancho de la sección al 75% del ancho total */
        float: none;
@@ -38,6 +41,10 @@
      }
       @media only screen and (max-width: 600px) {
        /* Estilos para pantallas con un ancho máximo de 600px (puedes ajustar este valor) */
+       header {
+         width: auto;
+       }
+         
        section {
          width: 100%; /* Hace que la sección ocupe el 100% del ancho en dispositivos móviles */
          float: right;
