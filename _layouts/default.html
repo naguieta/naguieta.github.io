@@ -62,7 +62,7 @@
             <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
             <p>{{ site.description | default: site.github.project_tagline }}</p>
-            {% if site.github.is_user_page/english %}
+            {% if page.url == "/english/index" %}
             <p>{{ site.description2 | default: site.github.project_tagline }}</p>
             {% endif %}
             {% if site.github.is_project_page %}
