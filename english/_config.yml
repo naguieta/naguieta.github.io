@@ -6,6 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Recientemente, me adentré en la Ciencia de Datos después de completar un bootcamp a tiempo completo. Soy apasionado por los desafíos, dedicado a la mejora constante y ansío aplicar nuevas herramientas y estrategias en mi trabajo.
   <br><br>
   <a href="https://www.linkedin.com/in/nahuelvargas/">View My LinkedIn Profile</a> 
+
+description2: > # your text below (remove <br> elements if you don't need line breaks)
+  English 2 Soy un desarrollador senior de software con habilidades en mainframe, competente en C y Assembler. Tengo experiencia en liderar equipos, analizar proyectos y gestionar migraciones globales de sistemas. Además, tengo antecedentes como Analista Funcional, encargándome de tareas relacionadas con bases de datos, garantizando su funcionalidad y optimizando consultas, trabajos y vistas.
+  <br><br>
+  Recientemente, me adentré en la Ciencia de Datos después de completar un bootcamp a tiempo completo. Soy apasionado por los desafíos, dedicado a la mejora constante y ansío aplicar nuevas herramientas y estrategias en mi trabajo.
+  <br><br>
+  <a href="https://www.linkedin.com/in/nahuelvargas/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
