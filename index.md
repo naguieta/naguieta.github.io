@@ -1,6 +1,6 @@
 ## Portfolio
-[![Idioma en inglés](images/english.png){:style="width: 30px; height: 30px; position: absolute; top: 10px; right: 10px;"}](/english/index)
-[![Idioma en español](images/espana.png){:style="width: 30px; height: 30px; position: absolute; top: 10px; right: 50px;"}](/index)
+[![Idioma en inglés](images/english.png){:style="width: 30px; height: 30px; position: absolute; top: 10px; right: 10px;"}](/en)
+[![Idioma en español](images/espana.png){:style="width: 30px; height: 30px; position: absolute; top: 10px; right: 50px;"}](/)
 
 ---
 
