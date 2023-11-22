@@ -54,12 +54,6 @@
       </div>
     </div>
     <div class="carousel-item" style="min-height: 355px;">
-      <img src="images/graf1.png" class="d-block w-100" alt="Imagen 8">
-      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Comparación de reviews y rating por tipo de alojamiento en la ciudad de Phoenix.</p>
-      </div>
-    </div>
-    <div class="carousel-item" style="min-height: 355px;">
       <img src="images/graf4.png" class="d-block w-100" alt="Imagen 9">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Exploración del mercado por categorias, negocios y rating.</p>
