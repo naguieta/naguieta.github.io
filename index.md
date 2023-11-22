@@ -8,34 +8,66 @@
 
 [Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
 
-<div id="carouselExample" class="carousel slide" data-ride="carousel">
+<div id="carouselExampleDark" class="carousel carousel-dark slide" data-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9"></button>
+  </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>First slide label</h5>
+        <p>Some representative placeholder content for the first slide.</p>
+      </div>
     </div>
     <div class="carousel-item">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>First slide label</h5>
+        <p>Some representative placeholder content for the first slide.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="images/graf2.png" class="d-block w-100" alt="Imagen 3">
+    </div>
+    <div class="carousel-item">
+      <img src="images/arq.png" class="d-block w-100" alt="Imagen 4">
+    </div>
+    <div class="carousel-item">
+      <img src="images/note.png" class="d-block w-100" alt="Imagen 5">
+    </div>
+    <div class="carousel-item">
+      <img src="images/code.png" class="d-block w-100" alt="Imagen 6">
+    </div>
+    <div class="carousel-item">
+      <img src="images/diagrama.png" class="d-block w-100" alt="Imagen 7">
+    </div>
+    <div class="carousel-item">
+      <img src="images/graf1.png" class="d-block w-100" alt="Imagen 8">
+    </div>
+    <div class="carousel-item">
+      <img src="images/graf4.png" class="d-block w-100" alt="Imagen 9">
     </div>
     <!-- Agrega más elementos .carousel-item según sea necesario -->
   </div>
-  <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+    <span class="visually-hidden">Next</span>
+  </button>
 </div>
 
-
-
-[![Imagen 1](images/app.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"} [![Imagen 2](images/graf3.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf){:target="_blank"}
-[![Imagen 3](images/graf2.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf){:target="_blank"} 
-[![Imagen 4](images/arq.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
-[![Imagen 5](images/note.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"} [![Imagen 6](images/code.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
-[![Imagen 7](images/diagrama.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
-[![Imagen 8](images/graf1.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf){:target="_blank"} [![Imagen 9](images/graf4.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf){:target="_blank"}
 
 ---
 [Análisis y presentación sobre MOOCs](https://github.com/naguieta/HenryPI3-MOOCs/tree/main){:target="_blank"}
