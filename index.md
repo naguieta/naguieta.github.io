@@ -6,7 +6,9 @@
 
 ### Soy Henry Bootcamp: Data Science
 
-<span style="font-size: 18px;">[Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
+<span style="font-size: 14px;  font-weight: bold;">[Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
+
+Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
 
