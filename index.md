@@ -77,8 +77,41 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
 
 Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 
-[![Imagen 1](images/graph1.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix){:target="_blank"} [![Imagen 2](images/wordCloud.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/WordCloud.pbix){:target="_blank"}
-[![Imagen 3](images/graph2.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix){:target="_blank"} [![Imagen 4](images/notebook.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/EDA/EDA%20EDX.ipynb){:target="_blank"}
+<div id="carouselExampleDark" class="carousel carousel-dark slide">
+
+  <div class="carousel-inner">
+    <div class="carousel-item active" style="min-height: 355px;">
+      <img src="images/graph1.png" class="d-block w-100" alt="Imagen 1">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por nivel y un KPI, con filtros por precios de cursos.</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="min-height: 355px;">
+      <img src="images/wordCloud.png" class="d-block w-100" alt="Imagen 2">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Wordcloud construido a partir de los títulos de los cursos ofrecidos.</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="min-height: 355px;">
+      <img src="images/graph2.png" class="d-block w-100" alt="Imagen 3">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por duración de cursos, con filtros de precio y cantidad de inscriptos.</p>
+      </div>
+    </div>
+    <div class="carousel-item" style="min-height: 355px;">
+      <img src="images/notebook.png" class="d-block w-100" alt="Imagen 4">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Jupyter Notebook con un gráfico de cantidad de cursos por nivel.</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark" data-slide="prev">
+    <
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark" data-slide="next">
+    >
+  </button>
+</div>
 
 ---
 <span style="font-size: 16px;">[Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
