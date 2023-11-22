@@ -8,6 +8,28 @@
 
 [Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
 
+<div id="carouselExample" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
+    </div>
+    <div class="carousel-item">
+      <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
+    </div>
+    <!-- Agrega más elementos .carousel-item según sea necesario -->
+  </div>
+  <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+
 [![Imagen 1](images/app.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"} [![Imagen 2](images/graf3.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf){:target="_blank"}
 [![Imagen 3](images/graf2.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps/blob/main/documents/Informefinal-Grupo1.pdf){:target="_blank"} 
 [![Imagen 4](images/arq.png){:width="30%" max-width="33%"}](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
