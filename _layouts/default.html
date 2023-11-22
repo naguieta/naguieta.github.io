@@ -23,10 +23,7 @@
    <![endif]-->
    <style>
      #carouselExampleDark {
-       display: flex; /* Utiliza flexbox */
-       flex-direction: column; /* Coloca los elementos en columna */
-       align-items: center; /* Centra los elementos horizontalmente */
-       justify-content: center; /* Centra los elementos verticalmente */
+       position: relative; /* Establece una posición relativa en el contenedor */
        width: calc(100%); /* Tamaño fijo del carousel */
        height: 300px; /* Altura fija del carousel */
        margin: auto; /* Centra el carousel horizontalmente */
@@ -46,6 +43,8 @@
        padding: 5px 10px; /* Ajusta el relleno interno */
        width: 50px; /* Ancho fijo del botón */
        height: 50px; /* Altura fija del botón */
+       position: absolute; /* Establece una posición absoluta */
+       top: 50%; /* Centra verticalmente en relación con el contenedor padre */
        cursor: pointer; /* Cambia el cursor al pasar sobre los botones */
        font-size: 24px; /* Tamaño del texto */
        font-weight: bold; /* Texto en negrita */
