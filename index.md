@@ -8,24 +8,14 @@
 
 [Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
 
-<div id="carouselExampleDark" class="carousel carousel-dark slide" data-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9"></button>
-  </div>
+<div id="carouselExampleDark" class="carousel carousel-dark slide">
+
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5 style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">First slide label</h5>
+        <p style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item">
@@ -58,11 +48,11 @@
     </div>
     <!-- Agrega más elementos .carousel-item según sea necesario -->
   </div>
-  <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#carouselExampleDark" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#carouselExampleDark" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
