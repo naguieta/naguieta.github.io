@@ -77,7 +77,7 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
 
 Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 
-<div id="carouselExampleDark" class="carousel carousel-dark slide">
+<div id="carouselExampleDark2" class="carousel carousel-dark slide">
 
   <div class="carousel-inner">
     <div class="carousel-item active" style="min-height: 355px;">
@@ -105,10 +105,10 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
       </div>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark2" data-slide="prev">
     <
   </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark2" data-slide="next">
     >
   </button>
 </div>
