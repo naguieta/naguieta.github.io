@@ -6,7 +6,7 @@
 
 ### Soy Henry Bootcamp: Data Science
 
-<span style="font-size: 16px;">[Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
+<span style="font-size: 16px;">[Análisis, app y presentación sobre restaurantes y negocios afines](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
 
 Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 
@@ -73,18 +73,24 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
 
 
 ---
-[Análisis y presentación sobre MOOCs](https://github.com/naguieta/HenryPI3-MOOCs/tree/main){:target="_blank"}
+<span style="font-size: 16px;">[Análisis y presentación sobre MOOCs](https://github.com/naguieta/HenryPI3-MOOCs/tree/main){:target="_blank"}
+
+Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 
 [![Imagen 1](images/graph1.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix){:target="_blank"} [![Imagen 2](images/wordCloud.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/WordCloud.pbix){:target="_blank"}
 [![Imagen 3](images/graph2.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/Power%20Bi/Presentation.pbix){:target="_blank"} [![Imagen 4](images/notebook.png){:width="45%" max-width="50%"}](https://github.com/naguieta/HenryPI3-MOOCs/blob/main/EDA/EDA%20EDX.ipynb){:target="_blank"}
 
 ---
-[Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
+<span style="font-size: 16px;">[Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
+
+Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 
 [![Imagen](images/analisis.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
 
 ---
-[Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
+<span style="font-size: 16px;">[Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
+
+Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
 <br>
 [![Imagen](images/FastApi.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
