@@ -21,14 +21,14 @@
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 12px;">
-        <h5 style="text-align: center; margin: 0; background-color: rgba(0, 0, 0, 0.5);">First slide label</h5>
+        <h5 style="position: absolute; text-align: center; margin: 0; background-color: rgba(0, 0, 0, 0.5);">First slide label</h5>
         <p style="position: absolute; bottom: 10px; ">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf2.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 8px;">
-        <h5 style="margin: 0; background-color: rgba(0, 0, 0, 0.5);">First slide label</h5>
+        <h5 style="position: absolute; background-color: rgba(0, 0, 0, 0.5);">First slide label</h5>
         <p style="position: absolute; bottom: 10px; ">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
