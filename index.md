@@ -49,10 +49,10 @@
     <!-- Agrega más elementos .carousel-item según sea necesario -->
   </div>
   <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark" data-slide="prev">
-    Anterior
+    <
   </button>
   <button class="carousel-control-next" type="button" data-target="#carouselExampleDark" data-slide="next">
-    Siguiente
+    >
   </button>
 </div>
 
