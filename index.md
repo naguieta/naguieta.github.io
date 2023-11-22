@@ -6,7 +6,7 @@
 
 ### Soy Henry Bootcamp: Data Science
 
-[Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
+<span style="font-size: 18px;">[Análisis, app y presentación sobre restaurantes y negocios relacionados](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
 
