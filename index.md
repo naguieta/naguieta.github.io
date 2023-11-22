@@ -20,7 +20,7 @@
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
-      <div class="carousel-caption d-none d-md-block"style="width: 100%; text-align: center; bottom: 0px;">
+      <div class="carousel-caption d-none d-md-block" style="position: absolute; width: 100%; text-align: center; bottom: 0px;">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
