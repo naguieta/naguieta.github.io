@@ -83,7 +83,7 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
     <div class="carousel-item active" style="min-height: 355px;">
       <img src="images/graph1.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por nivel y un KPI, con filtros por precios de cursos.</p>
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por nivel y un KPI, con filtros por precios de cursos.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 355px;">
@@ -95,7 +95,7 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
     <div class="carousel-item" style="min-height: 355px;">
       <img src="images/graph2.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por duración de cursos, con filtros de precio y cantidad de inscriptos.</p>
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por duración de cursos, con filtros de precio y cantidad de inscriptos.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 355px;">
