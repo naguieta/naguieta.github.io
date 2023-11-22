@@ -14,8 +14,8 @@
     <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block">
-        <h5 style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">First slide label</h5>
-        <p style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%);">Some representative placeholder content for the first slide.</p>
+        <h5 style="position: absolute; bottom: -50px; left: 50%; transform: translateX(-50%);">First slide label</h5>
+        <p style="position: absolute; bottom: -100px; ">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item">
