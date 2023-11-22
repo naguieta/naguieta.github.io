@@ -14,55 +14,55 @@
     <div class="carousel-item active" style="min-height: 350px;">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 15px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 12px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf2.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 8px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/arq.png" class="d-block w-100" alt="Imagen 4">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/note.png" class="d-block w-100" alt="Imagen 5">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/code.png" class="d-block w-100" alt="Imagen 6">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/diagrama.png" class="d-block w-100" alt="Imagen 7">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf1.png" class="d-block w-100" alt="Imagen 8">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf4.png" class="d-block w-100" alt="Imagen 9">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 5px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <!-- Agrega más elementos .carousel-item según sea necesario -->
