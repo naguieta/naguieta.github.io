@@ -30,8 +30,8 @@
     </div>
     <div class="carousel-item">
       <img src="images/arq.png" class="d-block w-100" alt="Imagen 4">
-      <div class="carousel-caption d-none d-md-block">
-        <h5 style="position: absolute; bottom: -50px; left: 50%; transform: translateX(-50%);">First slide label</h5>
+      <div class="carousel-caption d-none d-md-block" style="position: absolute; width: 100%; text-align: center; bottom: -30px;">
+        <h5 style="margin: 0; background-color: rgba(0, 0, 0, 0.5);">First slide label</h5>
         <p style="position: absolute; bottom: -100px; ">Some representative placeholder content for the first slide.</p>
       </div>
     </div>
