@@ -14,49 +14,49 @@
     <div class="carousel-item active" style="min-height: 350px;">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 15px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">App de recomendación de restaurantes y servicios para los usuarios basado en sus experiencias previas.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 12px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Una de las páginas generadas para la empresa ficticia que nos contrata.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf2.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 8px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Comparación del rating de nuestro cliente contra otros, incluido en el bussines plan.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/arq.png" class="d-block w-100" alt="Imagen 4">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Stack tecnológico utilizado en este proyecto.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/note.png" class="d-block w-100" alt="Imagen 5">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Jupyter Notebook utilizado para el primer análisis.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/code.png" class="d-block w-100" alt="Imagen 6">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Código de la App de recomendaciones en Python.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/diagrama.png" class="d-block w-100" alt="Imagen 7">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Comparación de reviews y rating por tipo de alojamiento en la ciudad de Phoenix.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
       <img src="images/graf1.png" class="d-block w-100" alt="Imagen 8">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
-        <p style="position: absolute; bottom: 0px; color: #000000">Some representative placeholder content for the first slide.</p>
+        <p style="position: absolute; bottom: 0px; color: #000000">Exploración del mercado por categorias, negocios y rating.</p>
       </div>
     </div>
     <div class="carousel-item" style="min-height: 350px;">
