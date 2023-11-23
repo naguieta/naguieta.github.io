@@ -19,7 +19,7 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">App de recomendación de restaurantes y servicios para los usuarios basado en sus experiencias previas.</p>
       </div>
     </div>
-    <div class="carousel-item" ">
+    <div class="carousel-item">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Una de las páginas generadas para la empresa ficticia que nos contrata.</p>
