@@ -13,49 +13,49 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
 
   <div class="carousel-inner">
-    <div class="carousel-item active" style="min-height: 355px;">
+    <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">App de recomendación de restaurantes y servicios para los usuarios basado en sus experiencias previas.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" ">
       <img src="images/graf3.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Una de las páginas generadas para la empresa ficticia que nos contrata.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/graf2.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Comparación del rating de nuestro cliente contra otros, incluido en el bussines plan.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/arq.png" class="d-block w-100" alt="Imagen 4">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Stack tecnológico utilizado en este proyecto.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/note.png" class="d-block w-100" alt="Imagen 5">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Jupyter Notebook utilizado para el primer análisis.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/code.png" class="d-block w-100" alt="Imagen 6">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Código de la App de recomendaciones en Python.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/diagrama.png" class="d-block w-100" alt="Imagen 7">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Nuestro diagrama de entidad relación utilizado en este proyecto.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/graf4.png" class="d-block w-100" alt="Imagen 9">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Exploración del mercado por categorias, negocios y rating.</p>
@@ -80,25 +80,25 @@ Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que cop
 <div id="carouselExampleDark2" class="carousel carousel-dark slide">
 
   <div class="carousel-inner">
-    <div class="carousel-item active" style="min-height: 355px;">
+    <div class="carousel-item active" >
       <img src="images/graph1.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por nivel y un KPI, con filtros por precios de cursos.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/wordCloud.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Wordcloud construido a partir de los títulos de los cursos ofrecidos.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/graph2.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Gráfico en Power BI representando los inscriptos por duración de cursos, con filtros de precio y cantidad de inscriptos.</p>
       </div>
     </div>
-    <div class="carousel-item" style="min-height: 355px;">
+    <div class="carousel-item" >
       <img src="images/notebook.png" class="d-block w-100" alt="Imagen 4">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Jupyter Notebook con un gráfico de cantidad de cursos por nivel.</p>
