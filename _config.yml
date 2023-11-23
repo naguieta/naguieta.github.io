@@ -6,13 +6,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   Recientemente, me adentré en la Ciencia de Datos después de completar un bootcamp a tiempo completo. Soy apasionado por los desafíos, dedicado a la mejora constante y ansío aplicar nuevas herramientas y estrategias en mi trabajo.
   <br><br>
   <a href="https://www.linkedin.com/in/nahuelvargas/">Visita mi perfil de LinkedIn</a> 
+  <br><br>
+  <a href="https://github.com/naguieta">Visita mi perfil de GitHub</a> 
 
 description_en: > # your text below (remove <br> elements if you don't need line breaks)
- I am a senior software developer with expertise in mainframe technologies, proficient in C and Assembler. I have experience leading teams, analyzing projects, and managing global system migrations. Additionally, I have a background as a Functional Analyst, handling tasks related to databases, ensuring their functionality, and optimizing queries, jobs, and views.
- <br><br> 
- Recently, I delved into Data Science after completing a full-time bootcamp. I am passionate about challenges, dedicated to continuous improvement, and eager to apply new tools and strategies in my work.
- <br><br>
- <a href="https://www.linkedin.com/in/nahuelvargas/">View My LinkedIn Profile</a> 
+  I am a senior software developer with expertise in mainframe technologies, proficient in C and Assembler. I have experience leading teams, analyzing projects, and managing global system migrations. Additionally, I have a background as a Functional Analyst, handling tasks related to databases, ensuring their functionality, and optimizing queries, jobs, and views.
+  <br><br> 
+  Recently, I delved into Data Science after completing a full-time bootcamp. I am passionate about challenges, dedicated to continuous improvement, and eager to apply new tools and strategies in my work.
+  <br><br>
+  <a href="https://www.linkedin.com/in/nahuelvargas/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://github.com/naguieta">View My GitHub Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
