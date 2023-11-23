@@ -75,7 +75,7 @@ Proyecto de Análisis de Mercado en EE. UU. para un cliente del sector de restau
 ---
 <span style="font-size: 16px;">[Análisis y presentación sobre MOOCs](https://github.com/naguieta/HenryPI3-MOOCs/tree/main){:target="_blank"}
 
-Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
+Realicé un análisis exploratorio de datos (EDA) centrado en plataformas MOOC como EDX, Udemy y Coursera. Presenté los hallazgos a través de un dashboard en Power BI, destacando las concluciones obtenidas y se incluyó un wordcloud sobre los cursos ofrecidos.
 
 <div id="carouselExampleDark2" class="carousel carousel-dark slide">
 
