@@ -8,7 +8,7 @@
 
 <span style="font-size: 16px;">[Análisis, app y presentación sobre restaurantes y negocios afines](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
 
-Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
+Proyecto de Análisis de Mercado en EE. UU. para un cliente del sector de restaurantes y turismo. Implicó analizar opiniones de usuarios en Google Maps para hoteles y restaurantes, utilizando técnicas de aprendizaje automático. Se realizaron tareas de extracción, limpieza y disponibilidad de datos, así como un análisis significativo. Se integraron datos de ubicación, categoría, puntuaciones y revisiones. Además, se utilizaron fuentes adicionales como cotizaciones de acciones y tendencias en redes sociales. El proyecto culminó con la formulación de recomendaciones para mejorar estrategias de marketing y el desarrollo de una app de recomendación para lugares específicos según usuario.
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
 
