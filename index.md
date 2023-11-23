@@ -116,15 +116,15 @@ Realicé un análisis exploratorio de datos (EDA) centrado en plataformas MOOC c
 ---
 <span style="font-size: 16px;">[Análisis de precios de propiedades de Estados Unidos](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
 
-Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
+Implementé modelos de aprendizaje supervisado y no supervisado utilizando técnicas de machine learning para clasificar y agrupar propiedades en venta según sus características. El proceso incluyó un análisis exploratorio de datos, la aplicación de técnicas de limpieza para mejorar la calidad de los datos, y la implementación de un árbol de decisión para el modelo supervisado y el algoritmo K-Means para el no supervisado.
 
 [![Imagen](images/analisis.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
 
 ---
 <span style="font-size: 16px;">[Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
-Esto sería la descripcion del proyecto y no se cuan largo va a ser, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste, asi que copy paste
-<br>
+Transformé datos CSV, creé un campo ID, manejé valores nulos, y desarrollé una API con FastAPI. La API proporciona consultas sobre palabras clave en títulos, películas con calificación específica, segunda película con mayor puntaje, película más larga y cantidad de series y películas por clasificación. Desplegado en Deta.
+
 [![Imagen](images/FastApi.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
 ---
