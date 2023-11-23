@@ -118,12 +118,65 @@ Realicé un análisis exploratorio de datos (EDA) centrado en plataformas MOOC c
 
 Implementé modelos de aprendizaje supervisado y no supervisado utilizando técnicas de machine learning para clasificar y agrupar propiedades en venta según sus características. El proceso incluyó un análisis exploratorio de datos, la aplicación de técnicas de limpieza para mejorar la calidad de los datos, y la implementación de un árbol de decisión para el modelo supervisado y el algoritmo K-Means para el no supervisado.
 
-[![Imagen](images/analisis.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI2-Datathon){:target="_blank"}
+<div id="carouselExampleDark3" class="carousel carousel-dark slide">
+
+  <div class="carousel-inner">
+    <div class="carousel-item active" >
+      <img src="images/edaml.png" class="d-block w-100" alt="Imagen 1">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Jupiter Notebook que incluye el EDA de los datos obtenidos.</p>
+      </div>
+    </div>
+    <div class="carousel-item" >
+      <img src="images/tree.png" class="d-block w-100" alt="Imagen 2">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Jupiter Notebook que muestra la aplicación de Sklearn tree.</p>
+      </div>
+    </div>
+    <div class="carousel-item" >
+      <img src="images/kmean.png" class="d-block w-100" alt="Imagen 3">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Jupiter Notebook que muestra el entrenmiento con Kmeans.</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark2" data-slide="prev">
+    <
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark2" data-slide="next">
+    >
+  </button>
+</div>
 
 ---
 <span style="font-size: 16px;">[Transformación de datos, elaboración y ejecución de una API](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
 Transformé datos CSV, creé un campo ID, manejé valores nulos, y desarrollé una API con FastAPI. La API proporciona consultas sobre palabras clave en títulos, películas con calificación específica, segunda película con mayor puntaje, película más larga y cantidad de series y películas por clasificación. Desplegado en Deta.
+
+<div id="carouselExampleDark4" class="carousel carousel-dark slide">
+
+  <div class="carousel-inner">
+    <div class="carousel-item active" >
+      <img src="images/FastApi.png" class="d-block w-100" alt="Imagen 1">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">FastApi desplegado con Deta.</p>
+      </div>
+    </div>
+    <div class="carousel-item" >
+      <img src="images/apicode.png" class="d-block w-100" alt="Imagen 2">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">main.py con el código que incluye FastApi, Deta y la lógica necesaria para su implementación.</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark2" data-slide="prev">
+    <
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark2" data-slide="next">
+    >
+  </button>
+</div>
+
 
 [![Imagen](images/FastApi.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
