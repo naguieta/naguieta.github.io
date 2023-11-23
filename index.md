@@ -140,10 +140,10 @@ Implementé modelos de aprendizaje supervisado y no supervisado utilizando técn
       </div>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark2" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark3" data-slide="prev">
     <
   </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark2" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark3" data-slide="next">
     >
   </button>
 </div>
@@ -169,16 +169,15 @@ Transformé datos CSV, creé un campo ID, manejé valores nulos, y desarrollé u
       </div>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark2" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark4" data-slide="prev">
     <
   </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark2" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark4" data-slide="next">
     >
   </button>
 </div>
 
 
-[![Imagen](images/FastApi.png){:width="90%" max-width="100%"}](https://github.com/naguieta/HenryPI1-ETL_API){:target="_blank"}
 
 ---
 
