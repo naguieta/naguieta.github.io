@@ -12,14 +12,14 @@ Market analysis project in the U.S. for a client in the restaurant and tourism s
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
     <ol class="carousel-indicators">
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></li>
-    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="3" aria-label="Slide 4"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="4" aria-label="Slide 5"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="5" aria-label="Slide 6"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="6" aria-label="Slide 7"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="7" aria-label="Slide 8"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -72,10 +72,10 @@ Market analysis project in the U.S. for a client in the restaurant and tourism s
     </div>
     <!-- Add more .carousel-item elements as needed -->
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark" data-slide="prev">
     <
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-slide="next">
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark" data-slide="next">
     >
   </button>
 </div>
@@ -86,10 +86,10 @@ Conducted exploratory data analysis (EDA) focused on MOOC platforms such as EDX,
 
 <div id="carouselExampleDark2" class="carousel carousel-dark slide">
   <ol class="carousel-indicators">
-    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="1" aria-label="Slide 2"></li>
-    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="2" aria-label="Slide 3"></li>
-    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="3" aria-label="Slide 4"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="3" aria-label="Slide 4"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
@@ -132,9 +132,9 @@ Implemented supervised and unsupervised learning models using machine learning t
 
 <div id="carouselExampleDark3" class="carousel carousel-dark slide">
   <ol class="carousel-indicators">
-    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="1" aria-label="Slide 2"></li>
-    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark3" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark3" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark3" data-slide-to="2" aria-label="Slide 3"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
@@ -171,8 +171,8 @@ I transformed CSV data, created an ID field, handled null values, and developed 
 
 <div id="carouselExampleDark4" class="carousel carousel-dark slide">
   <ol class="carousel-indicators">
-    <li type="button" data-bs-target="#carouselExampleDark4" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-bs-target="#carouselExampleDark4" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark4" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark4" data-slide-to="1" aria-label="Slide 2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
