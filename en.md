@@ -72,10 +72,10 @@ Market analysis project in the U.S. for a client in the restaurant and tourism s
     </div>
     <!-- Add more .carousel-item elements as needed -->
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark" data-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-slide="prev">
     <
   </button>
-  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark" data-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-slide="next">
     >
   </button>
 </div>
