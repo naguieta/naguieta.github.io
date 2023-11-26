@@ -11,16 +11,16 @@
 Market analysis project in the U.S. for a client in the restaurant and tourism sector. Involved analyzing user reviews on Google Maps for hotels and restaurants using machine learning techniques. Tasks included data extraction, cleaning, and availability, along with significant analysis. Integrated data on location, category, ratings, and reviews. Additional sources like stock quotes and social media trends were utilized. The project concluded with recommendations for improving marketing strategies and the development of a recommendation app for specific locations based on user experiences.
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
-    <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></button>
-    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></button>
-  </div>
+    <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Image 1">
@@ -85,6 +85,12 @@ Market analysis project in the U.S. for a client in the restaurant and tourism s
 Conducted exploratory data analysis (EDA) focused on MOOC platforms such as EDX, Udemy, and Coursera. Presented findings through a Power BI dashboard, highlighting conclusions and including a word cloud of offered courses.
 
 <div id="carouselExampleDark2" class="carousel carousel-dark slide">
+  <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="2" aria-label="Slide 3"></li>
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="3" aria-label="Slide 4"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
       <img src="images/graph1.png" class="d-block w-100" alt="Image 1">
@@ -125,7 +131,11 @@ Conducted exploratory data analysis (EDA) focused on MOOC platforms such as EDX,
 Implemented supervised and unsupervised learning models using machine learning techniques to classify and group properties for sale based on their characteristics. The process included exploratory data analysis, application of cleaning techniques to improve data quality, and implementation of a decision tree for the supervised model and the K-Means algorithm for the unsupervised model.
 
 <div id="carouselExampleDark3" class="carousel carousel-dark slide">
-
+  <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="2" aria-label="Slide 3"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
       <img src="images/edaml.png" class="d-block w-100" alt="Image 1">
@@ -160,7 +170,10 @@ Implemented supervised and unsupervised learning models using machine learning t
 I transformed CSV data, created an ID field, handled null values, and developed an API with FastAPI. The API provides queries about keywords in titles, movies with specific ratings, the second-highest rated movie, the longest movie, and the number of series and movies by classification. Deployed on Deta.
 
 <div id="carouselExampleDark4" class="carousel carousel-dark slide">
-
+  <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark4" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark4" data-bs-slide-to="1" aria-label="Slide 2"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
       <img src="images/FastApi.png" class="d-block w-100" alt="Image 1">
