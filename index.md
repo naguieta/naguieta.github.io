@@ -11,7 +11,16 @@
 Proyecto de Análisis de Mercado en EE. UU. para un cliente del sector de restaurantes y turismo. Implicó analizar opiniones de usuarios en Google Maps para hoteles y restaurantes, utilizando técnicas de aprendizaje automático. Se realizaron tareas de extracción, limpieza y disponibilidad de datos, así como un análisis significativo. Se integraron datos de ubicación, categoría, puntuaciones y revisiones. Además, se utilizaron fuentes adicionales como cotizaciones de acciones y tendencias en redes sociales. El proyecto culminó con la formulación de recomendaciones para mejorar estrategias de marketing y el desarrollo de una app de recomendación para lugares específicos según usuario.
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
-
+  <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></li>
+    <li type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Imagen 1">
@@ -78,7 +87,12 @@ Proyecto de Análisis de Mercado en EE. UU. para un cliente del sector de restau
 Realicé un análisis exploratorio de datos (EDA) centrado en plataformas MOOC como EDX, Udemy y Coursera. Presenté los hallazgos a través de un dashboard en Power BI, destacando las concluciones obtenidas y se incluyó un wordcloud sobre los cursos ofrecidos.
 
 <div id="carouselExampleDark2" class="carousel carousel-dark slide">
-
+ <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="2" aria-label="Slide 3"></li>
+    <li type="button" data-bs-target="#carouselExampleDark2" data-bs-slide-to="3" aria-label="Slide 4"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
       <img src="images/graph1.png" class="d-block w-100" alt="Imagen 1">
@@ -119,7 +133,11 @@ Realicé un análisis exploratorio de datos (EDA) centrado en plataformas MOOC c
 Implementé modelos de aprendizaje supervisado y no supervisado utilizando técnicas de machine learning para clasificar y agrupar propiedades en venta según sus características. El proceso incluyó un análisis exploratorio de datos, la aplicación de técnicas de limpieza para mejorar la calidad de los datos, y la implementación de un árbol de decisión para el modelo supervisado y el algoritmo K-Means para el no supervisado.
 
 <div id="carouselExampleDark3" class="carousel carousel-dark slide">
-
+  <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="1" aria-label="Slide 2"></li>
+    <li type="button" data-bs-target="#carouselExampleDark3" data-bs-slide-to="2" aria-label="Slide 3"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
       <img src="images/edaml.png" class="d-block w-100" alt="Imagen 1">
@@ -154,7 +172,10 @@ Implementé modelos de aprendizaje supervisado y no supervisado utilizando técn
 Transformé datos CSV, creé un campo ID, manejé valores nulos, y desarrollé una API con FastAPI. La API proporciona consultas sobre palabras clave en títulos, películas con calificación específica, segunda película con mayor puntaje, película más larga y cantidad de series y películas por clasificación. Desplegado en Deta.
 
 <div id="carouselExampleDark4" class="carousel carousel-dark slide">
-
+  <ol class="carousel-indicators">
+    <li type="button" data-bs-target="#carouselExampleDark4" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li type="button" data-bs-target="#carouselExampleDark4" data-bs-slide-to="1" aria-label="Slide 2"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
       <img src="images/FastApi.png" class="d-block w-100" alt="Imagen 1">
