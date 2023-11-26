@@ -11,6 +11,16 @@
 Market analysis project in the U.S. for a client in the restaurant and tourism sector. Involved analyzing user reviews on Google Maps for hotels and restaurants using machine learning techniques. Tasks included data extraction, cleaning, and availability, along with significant analysis. Integrated data on location, category, ratings, and reviews. Additional sources like stock quotes and social media trends were utilized. The project concluded with recommendations for improving marketing strategies and the development of a recommendation app for specific locations based on user experiences.
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
+    <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></button>
+    <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></button>
+  </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="images/app.png" class="d-block w-100" alt="Image 1">
