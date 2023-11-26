@@ -12,14 +12,14 @@ Proyecto de Análisis de Mercado en EE. UU. para un cliente del sector de restau
 
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
   <ol class="carousel-indicators">
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="1" aria-label="Slide 2"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="2" aria-label="Slide 3"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="3" aria-label="Slide 4"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="4" aria-label="Slide 5"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="5" aria-label="Slide 6"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="6" aria-label="Slide 7"></li>
-    <li type="button" data-target="#carouselExampleDark" data-slide-to="7" aria-label="Slide 8"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="3" aria-label="Slide 4"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="4" aria-label="Slide 5"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="5" aria-label="Slide 6"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="6" aria-label="Slide 7"></li>
+    <li  data-target="#carouselExampleDark" data-slide-to="7" aria-label="Slide 8"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -88,10 +88,10 @@ Realicé un análisis exploratorio de datos (EDA) centrado en plataformas MOOC c
 
 <div id="carouselExampleDark2" class="carousel carousel-dark slide">
  <ol class="carousel-indicators">
-    <li type="button" data-target="#carouselExampleDark2" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-target="#carouselExampleDark2" data-slide-to="1" aria-label="Slide 2"></li>
-    <li type="button" data-target="#carouselExampleDark2" data-slide-to="2" aria-label="Slide 3"></li>
-    <li type="button" data-target="#carouselExampleDark2" data-slide-to="3" aria-label="Slide 4"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark2" data-slide-to="3" aria-label="Slide 4"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
@@ -134,9 +134,9 @@ Implementé modelos de aprendizaje supervisado y no supervisado utilizando técn
 
 <div id="carouselExampleDark3" class="carousel carousel-dark slide">
   <ol class="carousel-indicators">
-    <li type="button" data-target="#carouselExampleDark3" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-target="#carouselExampleDark3" data-slide-to="1" aria-label="Slide 2"></li>
-    <li type="button" data-target="#carouselExampleDark3" data-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark3" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark3" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark3" data-slide-to="2" aria-label="Slide 3"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
@@ -173,8 +173,8 @@ Transformé datos CSV, creé un campo ID, manejé valores nulos, y desarrollé u
 
 <div id="carouselExampleDark4" class="carousel carousel-dark slide">
   <ol class="carousel-indicators">
-    <li type="button" data-target="#carouselExampleDark4" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
-    <li type="button" data-target="#carouselExampleDark4" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark4" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark4" data-slide-to="1" aria-label="Slide 2"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
