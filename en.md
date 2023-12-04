@@ -16,25 +16,25 @@ Project on the analysis of customers leaving the product of a communication comp
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
-      <img src="images/datalogo.png" class="d-block w-100" alt="Imagen 1">
+      <img src="images/datablogo.png" class="d-block w-100" alt="Imagen 1">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Databricks & Apache Spark</p>
       </div>
     </div>
     <div class="carousel-item" >
-      <img src="images/datagrap.png" class="d-block w-100" alt="Imagen 2">
+      <img src="images/databgrap.png" class="d-block w-100" alt="Imagen 2">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Matplotlib graph.</p>
       </div>
     </div>
     <div class="carousel-item" >
-      <img src="images/datapipe.png" class="d-block w-100" alt="Imagen 3">
+      <img src="images/databpipe.png" class="d-block w-100" alt="Imagen 3">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Spark ML Pipeline diagram.</p>
       </div>
     </div>
     <div class="carousel-item" >
-      <img src="images/datatran.png" class="d-block w-100" alt="Imagen 4">
+      <img src="images/databtran.png" class="d-block w-100" alt="Imagen 4">
       <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
         <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Transformer application and Pipeline creation.</p>
       </div>
