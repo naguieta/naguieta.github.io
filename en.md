@@ -50,6 +50,7 @@ Project on the analysis of customers leaving the product of a communication comp
   </button>
 </div>
 
+
 ---
 
 [Analysis, app and presentation about restaurants and related businesses](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}
