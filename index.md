@@ -4,7 +4,51 @@
 
 ---
 
-### Soy Henry Bootcamp: Data Science
+<span style="font-size: 16px;">[Pipeline de Machine Learning usando Apache Spark - Databricks community](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2977217117936163/3150954278375723/1108562042714916/latest.html){:target="_blank"}</span>
+
+Proyecto sobre el analisis de los clientes de una empresa de comunicaciones que abandonan el prodducto. Se utilizó Databricks Comunnity para crear un pipeline de machine learning utilizando Apache Spark. En este proyecto se puede observar un breve analisis de los datos, la utilizacion de multiples Transformers como OneHotEncoder, StringIndexer, VectorAssembler, entre otros y luego la creacion de varios modelos como Logistic Regression, Random Forest Classifier, y el uso de Cross Validator.
+
+
+<div id="carouselExampleDark5" class="carousel carousel-dark slide">
+  <ol class="carousel-indicators">
+    <li  data-target="#carouselExampleDark5" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
+    <li  data-target="#carouselExampleDark5" data-slide-to="1" aria-label="Slide 2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active" >
+      <img src="images/datalogo.png" class="d-block w-100" alt="Imagen 1">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Databricks & Apache Spark</p>
+      </div>
+    </div>
+    <div class="carousel-item" >
+      <img src="images/datagrap.png" class="d-block w-100" alt="Imagen 2">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Gráfico con Matplotlib.</p>
+      </div>
+    </div>
+    <div class="carousel-item" >
+      <img src="images/datapipe.png" class="d-block w-100" alt="Imagen 3">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: -10px; left: -60px; width: 90%; color: #000000">Diagrama del Pipeline de Machine Learning en Spark.</p>
+      </div>
+    </div>
+    <div class="carousel-item" >
+      <img src="images/datatran.png" class="d-block w-100" alt="Imagen 4">
+      <div class="carousel-caption d-none d-md-block" style="width: 100%; text-align: center; bottom: 0px;">
+        <p style="position: absolute; bottom: 0px; left: -60px; width: 90%; color: #000000">Aplicación de un Transformer y creación del Pipeline.</p>
+      </div>
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-target="#carouselExampleDark5" data-slide="prev">
+    <
+  </button>
+  <button class="carousel-control-next" type="button" data-target="#carouselExampleDark5" data-slide="next">
+    >
+  </button>
+</div>
+
+---
 
 <span style="font-size: 16px;">[Análisis, app y presentación sobre restaurantes y negocios afines](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
 
