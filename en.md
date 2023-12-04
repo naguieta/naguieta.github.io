@@ -13,6 +13,8 @@ Project on the analysis of customers leaving the product of a communication comp
   <ol class="carousel-indicators">
     <li  data-target="#carouselExampleDark5" data-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></li>
     <li  data-target="#carouselExampleDark5" data-slide-to="1" aria-label="Slide 2"></li>
+    <li  data-target="#carouselExampleDark5" data-slide-to="2" aria-label="Slide 3"></li>
+    <li  data-target="#carouselExampleDark5" data-slide-to="3" aria-label="Slide 4"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active" >
