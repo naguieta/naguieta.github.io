@@ -49,7 +49,7 @@ Proyecto sobre el analisis de los clientes de una empresa de comunicaciones que 
     >
   </button>
 </div>
-
+<br>
 ---
 
 <span style="font-size: 16px;">[Análisis, app y presentación sobre restaurantes y negocios afines](https://github.com/naguieta/HenryPF-Google_maps){:target="_blank"}</span>
